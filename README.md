@@ -1,4 +1,4 @@
-## Zinc Plant Store
+## Zinc : Plant Store
 - Solely UI
 - Minimalist design
 
