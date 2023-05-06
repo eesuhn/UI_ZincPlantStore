@@ -1,5 +1,5 @@
 ## Zinc : Plant Store
-[Click here for Live Demo](https://eesuhn.github.io/Zinc_PlantStoreUI/index.html)
+[Click here to visit](https://eesuhn.github.io/Zinc_PlantStoreUI/index.html)
 - Solely UI with only `HTML` and `CSS`
 - Minimalist design
 
