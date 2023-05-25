@@ -18,5 +18,3 @@
 <img src="https://user-images.githubusercontent.com/102596628/215822190-fb33197b-86d4-4d4e-8217-5282e722b157.png" alt="Screenshot3" width="660" />
 
 *Figure 3: Gifts available*
-
----
